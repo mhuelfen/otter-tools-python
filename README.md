@@ -1,4 +1,4 @@
 otter-tools-python
 ==================
 
-my python tools
+personal python tools from Michael A. Hülfenhaus
