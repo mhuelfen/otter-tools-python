@@ -24,7 +24,8 @@ params:
 
 '''
 
-def read_nodes_csv(path,delimiter='\t'):
+def function(param):
+	pass
 
 
 if __name__ == "__main__":
@@ -44,10 +45,10 @@ if __name__ == "__main__":
 		print >> sys.stderr, help_message
 		sys.exit(2)
 
-	import_path = args[0]
+	param = args[0]
 	
-	batch_import(import_path)
-	#test_rel_create()
+	function(param)
+
 
 	
 
